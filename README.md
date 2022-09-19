@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OJOVATHY
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me is via my gmail - ojovathisambarapu@gmail.com
 
 <!---
